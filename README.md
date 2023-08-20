@@ -37,7 +37,7 @@ In this project, I am prominently trying to Analyse the airline data set, First 
   - Conclusion 
   - Suggestions
 
-## Screenshots of Analysis
+## Some Screenshots of Analysis
 <img width="880" alt="Screenshot 2023-08-20 at 3 42 24 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/7efb4c8d-3079-41f7-a1c5-2c6f8146f14e">
 <img width="887" alt="Screenshot 2023-08-20 at 3 41 51 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/20364691-50eb-4ab3-8aaa-13c57ab2de83">
 <img width="884" alt="Screenshot 2023-08-20 at 3 42 38 PM" src="https://github.com/himanshu1199/Airline_data_analysis/assets/130036773/315357d8-b11e-4ad6-9c08-66d0cad0dbff">
